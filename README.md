@@ -103,7 +103,7 @@ Para derribar las barreras que obstaculizan el uso de los productos desplegados 
 ### Construido  Con
 
  
-*Django
+* Django
 <!--* [![Unity]][Unity-url]-->
 <!--* [![Bootstrap][Bootstrap.com]][Bootstrap-url]-->
 
