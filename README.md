@@ -103,9 +103,9 @@ Para derribar las barreras que obstaculizan el uso de los productos desplegados 
 ### Construido  Con
 
  
-
-* [![Unity]][Unity-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+*Django
+<!--* [![Unity]][Unity-url]-->
+<!--* [![Bootstrap][Bootstrap.com]][Bootstrap-url]-->
 
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
@@ -117,16 +117,16 @@ Para derribar las barreras que obstaculizan el uso de los productos desplegados 
 
 
 Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejemplo.
-
+### Estructura
 ![Descripción de la imagen Markdown](/images/tree.png)
 
 ### Prerequisitos
 
 
-* 
+* Cuenta Servidor Heroku
 
 
-* Debian GNU/Linux 12 (bookworm)
+* Debian GNU/Linux 
 ```sh
   sudo apt-get update && sudo apt-get upgrade
   ```
@@ -142,7 +142,7 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
    git clone https://github.com/ubuangel/covidnoticias.git
    ```
 
-2. Django
+2. Despliega
 
 <!--![imagen1][imagen1]-->
 
@@ -233,9 +233,9 @@ Link del Proyecto: [https://github.com/ubuangel/covidnoticias](https://github.co
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Credito al canal 
+Credito a
 
-* [Youtube](https://www.youtube.com/@InformatikaEHU)
+* [Documentacion](https://docs.djangoproject.com/en/5.0/)
 
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
