@@ -78,6 +78,7 @@
 ## Sobre este Proyecto
 
 ![Product Name Screen Shot][product-screenshot]
+![Descripción de la imagen Markdown](/images/resultado4.png)
 
 
 En la actualidad, no existe duda alguna de que las Tecnologias de la Informacion y las Comunicaciones (TICs) y la Web estan entramadas en las estructuras sociales y de negocio y por ende, forman parte de la vida cotidiana de los ciudadanos.[Abjaude, S. A. R., Pereira]
