@@ -117,6 +117,8 @@ Para derribar las barreras que obstaculizan el uso de los productos desplegados 
 
 Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejemplo.
 
+![Descripción de la imagen Markdown](/images/tree.png)
+
 ### Prerequisitos
 
 
@@ -141,7 +143,7 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
 
 2. Django
 
-![imagen1][imagen1]
+<!--![imagen1][imagen1]-->
 
 <p align="right">(<a href="#readme-top">Volver arriba</a>)</p>
 
@@ -151,7 +153,7 @@ Para poner en funcionamiento una copia local, siga estos sencillos pasos de ejem
 
 ## Uso
 
-Api ,Después de la instalación, se importa al proyecto  su proyecto:
+Api ,Después de la instalación, se importa al proyecto :
 
 desde newsapi import NewsApiClient
 
@@ -161,7 +163,7 @@ Inicialice el cliente con su clave API:
 api = NewsApiClient (api_key = 'XXXXXXXXXXXXXXXXXXXXXXX')
 ```
 
-![Descripción de la imagen Markdown](/images/tree.png)
+
 ![Descripción de la imagen Markdown](/images/consola.png)
 ![Descripción de la imagen Markdown](/images/inicio.png)
 ![Descripción de la imagen Markdown](/images/nave.png)
@@ -175,7 +177,7 @@ api = NewsApiClient (api_key = 'XXXXXXXXXXXXXXXXXXXXXXX')
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Add Changelog
+- [ ] Add Changelog
 - [x] Add back to top links
 - [x] Add Additional Templates w/ Examples
 - [ ] Add "components" document to easily copy & paste sections of the readme
